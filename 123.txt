@@ -1,10 +1,3 @@
-伪爷飞车防封
-改IP为自己的
-流量的不要改
-因为流量会自动换IP
-改IP会失效
-WiFi改IP就行了
-交流群：773083243
 127.0.0.1 fileapi.micloud.xiaomi.net
 127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 smsapi.micloud.xiaomi.net
